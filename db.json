@@ -2,9 +2,23 @@
     "users": [
         {
             "id": 1,
+            "name": "Juan Perez",
+            "rol": "Inspector",
+            "category":"I-001",
+            "avatar": null
+        },
+        {
+            "id": 2,
             "name": "Pedro Fuentes",
             "rol": "Investigador",
-            "category":"I-001",
+            "category":"I-002",
+            "avatar": null
+        },
+        {
+            "id": 3,
+            "name": "Carlos Martinez",
+            "rol": "Respuestero",
+            "category":"R-003",
             "avatar": null
         }
     ],
