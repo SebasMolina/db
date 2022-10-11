@@ -286,7 +286,7 @@
           "estado":"Pendiente",
           "fechaDeSolicitud":"24/11/2021",
           "inspector":"Juan Perez",
-          "comentario":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+          "comentario":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
           "datosSiniestro": { 
                 "siniestroNro": 21548,
                 "rama": "automoviles",
@@ -370,7 +370,7 @@
           "estado":"Pendiente",
           "fechaDeSolicitud":"05/10/2021",
           "inspector":"Lionel Messi",
-          "comentario":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+          "comentario":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
           "datosSiniestro": { 
                 "siniestroNro": 22500,
                 "rama": "automoviles",
