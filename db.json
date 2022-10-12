@@ -277,5 +277,23 @@
                 ]
             }
         }
-    ]
+    ],
+     "ordenesReposicion":[
+        {
+            "inspeccionNro": 1248975,
+            "siniestroNro": 21548,
+            "poliza": 3251,
+            "estado": "Pendiente",
+            "fechaDeSolicitud": "24/11/2021",
+            "inspector": "Juan Perez",
+            "tarea": "-------",
+            "direccion": "Garcia 547 7A",
+            "provincia": "C.A.B.A",
+            "localidad": "Nuñez",
+            "fechaProgramada": "27/11/2021"
+            "horaDesde": "15:00 PM",
+            "horaHasta": "17:00 PM",
+            
+        }
+    ],
 }
