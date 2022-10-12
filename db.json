@@ -290,10 +290,10 @@
             "direccion": "Garcia 547 7A",
             "provincia": "C.A.B.A",
             "localidad": "Nuñez",
-            "fechaProgramada": "27/11/2021"
+            "fechaProgramada": "27/11/2021",
             "horaDesde": "15:00 PM",
-            "horaHasta": "17:00 PM",
+            "horaHasta": "17:00 PM"
             
         }
-    ],
+    ]
 }
