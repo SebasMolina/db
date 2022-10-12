@@ -4,6 +4,7 @@
             "id": 1,
             "name": "Juan Perez",
             "rol": "Inspector",
+            "password": 123456,
             "category":"I-001",
             "avatar": null
         },
@@ -11,6 +12,7 @@
             "id": 2,
             "name": "Pedro Fuentes",
             "rol": "Investigador",
+            "password": 123789,
             "category":"I-002",
             "avatar": null
         },
@@ -18,6 +20,7 @@
             "id": 3,
             "name": "Carlos Martinez",
             "rol": "Respuestero",
+            "password": 456123,
             "category":"R-003",
             "avatar": null
         }
